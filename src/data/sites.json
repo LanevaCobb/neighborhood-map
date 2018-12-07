@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Martin Luther King, Jr. Center for Nonviolent Social Change",
+    "street": "449 Auburn Ave NE Atlanta, Georgia 30312",
+    "url": "http://www.thekingcenter.org/",
+    "pos": {"lat":33.755030, "lng":-84.373010}
+  },
+  {
+    "name": "Martin Luther King Jr. Birth Home",
+    "street": "501 Auburn Ave NE Atlanta, Georgia 30312",
+    "url": "https://www.nps.gov/nr/travel/atlanta/kin.htm",
+    "pos": {"lat":33.755130, "lng":-84.371150}
+  },
+  {
+    "name": "Sweet Auburn Ave. Neighborhood",
+    "street": "Auburn Ave NE Atlanta, Georgia 30312",
+    "url": "https://www.nps.gov/nr/travel/atlanta/aub.htm",
+    "pos": {"lat":33.755490, "lng":-84.375040}
+
+  },
+  {
+    "name": "The Underground Atlanta",
+    "street": "50 Upper Alabama St. Atlanta, Georgia 30303",
+    "url": "https://undergroundatl.com/",
+    "pos": {"lat":33.751990, "lng":-84.389080}
+  },
+  {
+    "name": "Margaret Mitchell House",
+    "street": "979 Crescent Ave NE Atlanta, Georgia 30309",
+    "url": "http://www.atlantahistorycenter.com/explore/destinations/margaret-mitchell-house",
+    "pos": {"lat":33.781350, "lng":-84.384450}
+   }
+]

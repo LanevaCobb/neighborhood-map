@@ -1,0 +1,21 @@
+`https://api.foursquare.com/v2/venues/explore?client_id=${FS_Client}&client_secret=${FS_Secret}&v=${FS_Version}&limit=1&ll=${props.position.lat},${props.position.lng}&query=coffee')`
+
+`https://api.foursquare.com/v2/venues/${historySite[0].id}/photos?client_id=${FS_Client}&client_secret=${FS_Secret}&v=${FS_Version}`
+
+(avProps && avProps.images
+              ? (
+                <div><img
+                    alt={avProps.name + "Historial Site"}
+                    src={avProps.images.items[0].prefix +
+                      "100x100"}></img>
+                    <p>Image from FourSquare</p>
+                </div>
+              )
+              : ""
+
+
+onst theme = createMuiTheme({
+    typography: {
+      useNextVariants: true,
+    },
+  });
